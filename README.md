@@ -33,3 +33,8 @@ Nowadays, with more and more cars on the road, how to reduce traffic accidents h
 * Point of Interest Analysis
   * The Frequeny of Traffic Accidents by Point of Interest from Feb 2016 to Jun 2020
   * Interactively Retrieves the Historical Traffic Accidents Record of a Particular Zipcode
+
+# How it Works
+1. Watch video presentation click Youtube link [Here](https://youtu.be/7PoV3TFrELA).
+2. Read ** PPT Presentation.pptx**.
+3. Check Python Code and Visualiztion in Web Scraping and Cleaning and Analyzing on Github pages.
