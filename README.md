@@ -36,5 +36,5 @@ Nowadays, with more and more cars on the road, how to reduce traffic accidents h
 
 # How it Works
 1. Watch video presentation click Youtube link [Here](https://youtu.be/7PoV3TFrELA).
-2. Read ** PPT Presentation.pptx**.
-3. Check Python Code and Visualiztion in Web Scraping and Cleaning and Analyzing on Github pages.
+2. Read **PPT Presentation.pptx**.
+3. Check Python Code and Visualiztion in [Analyzing United States Traffic Accident](https://weiruiliu.github.io/Analyzing-United-States-Traffic-Accident/Analyzing%20United%20States%20Traffic%20Accident.html.zip).
