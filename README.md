@@ -18,6 +18,8 @@ Nowadays, with more and more cars on the road, how to reduce traffic accidents h
 *- Open counties json file for plot United States county map*
 
 ## Analysis and Visualization
+Clean, Exploration, Analysis, and Visualization **(Analyzing United States Traffic Accident.ipynb.zip)**
+
 * DateTime Analysis
   * The Frequency Rate of Traffic Accidents by Year, Month, and Day
   * The Frequency Rate of Traffic Accidents by Day of Week and Hour
